@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)".pub
+
